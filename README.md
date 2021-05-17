@@ -1,2 +1,2 @@
-# girll-test-case-study
+# grill-test-case-study
 Exploratory Data Analysis and Data Visualization
